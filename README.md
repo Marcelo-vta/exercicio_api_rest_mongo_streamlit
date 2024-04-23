@@ -1,14 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VLn-owAj)
 # Web Service REST com MongoDB
 
 ## ESTA É UMA APS EM DUPLA, ou TRIO! Não pode ser individual.
-Apenas um precisa entregar, porém os dois precisam ter commits no repositório.
+Apenas um precisa entregar, porém os dois precisam ter commits no repositório. --> commits em repositórios externos (ambos os links ao decorrer do documento)
 Adicione o nome dos integrantes aqui no README.md.
 
-Integrante 1:
+Integrante 1: Marcelo Vergamini Terni Alonso
 
-Integrante 2:
+Integrante 2: Luigi Carmona de Miranda Lopes
 
-Integrante 3:
+Integrante 3: Lucas Bertachini Abatepietro
+
+link do repositório Back-end: https://github.com/Marcelo-vta/APS-5_prog-eficaz_back-end
 
 ## Aluguel de Bicicletas Compartilhadas com Histórico de Empréstimos
 
@@ -122,7 +125,7 @@ Faça o deploy do seu web service no Heroku e assegure que ele esteja se comunic
 ## Etapa 5: Interface do Usuário
 
 Crie um repositõrio separado para o desenvolvimento do Streamlit, deixe-o público e adicione o link aqui!
-Link do repositório da interface:
-Link de deploy do streamlit:
+Link do repositório da interface: https://github.com/Marcelo-vta/APS-5_prog-eficaz_front-end
+Link de deploy do streamlit: https://marcelo-vta-aps-5-prog-eficaz-front-end-app-jofzyb.streamlit.app/
 
 Desenvolva uma interface para o usuário para que ele consiga gerenciar os recursos do back-end. Desenvolvimento livre!
